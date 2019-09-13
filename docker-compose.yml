@@ -1,0 +1,53 @@
+version: "3"
+
+services:
+
+ mytomcat:
+   
+  build: mytomcat/
+ 
+  restart: always
+
+  depends_on:
+   - mymysql
+
+  environment:
+   SPRING_DATASOURCE_URL: jdbc:mysql://mymysql/ORDERBASE?useSSL=false&allowPublicKeyRetrieval=true
+   SPRING_DATASOURCE_USERNAME: root
+   SPRING_DATASOURCE_PASSWORD: chipollino66    
+   
+
+  links:
+   - myredis:localhost
+
+ mymysql:
+
+  build: mymysql/
+
+  environment:
+   MYSQL_ROOT_PASSWORD: chipollino66
+   MYSQL_DATABASE: ORDERBASE
+
+  restart: always
+
+  depends_on:
+   - myredis
+
+ myredis:
+
+  build: myredis/
+
+  restart: always
+
+
+ mynginx:
+
+   build: mynginx/
+   
+   ports:
+   - 80:80
+
+   restart: always
+
+   depends_on:
+    - mytomcat
