@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="_228:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70e345db-0bba-4adb-8969-01dd7c0584c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../OrderProject/.idea/dataSources/666a9e9e-dd48-4e11-8ccf-309952023349.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/.idea/dataSources/666a9e9e-dd48-4e11-8ccf-309952023349.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/actionfactory/ActionFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/actionfactory/ActionFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/chooseacommandenum/CommandEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/command/GoToButtonCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/command/GoToWelcomeCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/command/GoToWelcomeCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/jdbc/ConnectorDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/jdbc/ConnectorDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/jdbc/DBHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/jdbc/DBHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/jdbc/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/classes/jdbc/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/jsp/buttonPage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/jsp/formPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded/jsp/formPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/WEB-INF/classes/controller/FormController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/WEB-INF/classes/controller/FormController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/WEB-INF/classes/jdbc/DBHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/WEB-INF/classes/jdbc/DBHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/jsp/formPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/artifacts/OrderProject_war_exploded2/jsp/formPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/production/OrderProject/controller/FormController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/production/OrderProject/controller/FormController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/out/production/OrderProject/jdbc/DBHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/out/production/OrderProject/jdbc/DBHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/src/controller/CORSFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/src/controller/CORSFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/src/controller/FormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/src/controller/FormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/src/jdbc/DBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/src/jdbc/DBHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/web/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/web/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/web/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/web/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderProject/web/jsp/formPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderProject/web/jsp/formPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/electricity.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/EmailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/Initializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/java/sql/user/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/application-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/automation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/bulb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/ekstra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/electnet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/lighting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/logo_dolya.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/logo_kolyadichi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/logo_train.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/mail-outline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/master.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/open-mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_1110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_1135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_479.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_684.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_841.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_998.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/plastic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/sklad1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/sklad2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/sklad3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/sklad4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/skype.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/ventil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/ventilation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/viber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/pic/wiresphoto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/automation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/bulb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/ekstra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/electnet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/lighting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/logo_dolya.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/logo_kolyadichi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/logo_train.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/master.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_1110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_1135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_479.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_684.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_841.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/photocablefinal1_czf7a5_c_scale,w_998.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/plastic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/sklad1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/sklad2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/sklad3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/sklad4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/ventil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/ventilation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/resources/static/public/wiresphoto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/webapp/WEB-INF/jsp/css/bundle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/webapp/WEB-INF/jsp/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/webapp/WEB-INF/jsp/formPage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_228/src/main/webapp/WEB-INF/jsp/formpagemain.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack-starter" beforeDir="false" afterPath="$PROJECT_DIR$/../webpack-starter" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="orderbase@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="orderbase@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="orderbase@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="orderbase: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="orderbase@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="orderbase: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="hibernate_sequence: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="orderbase@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="orderbase: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="orders: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="orderbase@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="orderbase: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="_228" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/ventilation.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/viber.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/wiresphoto.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/public/1.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/EmailService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/UserRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/Initializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Tag Library Descriptor" />
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;param-name&gt;mappedfile&lt;/param-name&gt;</find>
+      <find>&lt;init-param&gt;</find>
+      <find>comm</find>
+      <find>hibe</find>
+      <find>file</find>
+      <find>js</find>
+      <find>f()</find>
+      <find>fixedBu</find>
+      <find>lds</find>
+      <find>.fixedButton</find>
+      <find>.foo</find>
+      <find>foo</find>
+      <find>&lt;head</find>
+      <find>&lt;form</find>
+      <find>Servlet</find>
+      <find>de</find>
+      <find>set</find>
+      <find>setH</find>
+      <find>setHostName</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/controllers/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/formPageContinue0.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/formPageContinue.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/formPageCont.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/user/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/OrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/runner/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/user/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/css/custom.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/2.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/1.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/formPage.jsp" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/custom.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/css/bundle.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/index.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/formpagemain.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/user/EmailService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/user/EmailServiceImpl.java" />
+        <option value="$USER_HOME$/.m2/settings.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/user/OrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/user/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/user/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/logging.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/user/Initializer.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/user/Config.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="228" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="228" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="1630" />
+    <option name="height" value="1715" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="electricityProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmatic" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568372620795" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\never\IdeaProjects\_228\src\main\resources" />
+      <recent name="C:\Users\never\IdeaProjects\_228\src\main\resources\static\pic" />
+      <recent name="C:\Users\never\IdeaProjects\_228\src\main\resources\static\js" />
+      <recent name="C:\Users\never\IdeaProjects\_228\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\never\IdeaProjects\_228\src\main\webapp\WEB-INF\jsp\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\never\IdeaProjects\_228\src\main\resources\static" />
+      <recent name="C:\Users\never\IdeaProjects\_228\src\main\resources" />
+      <recent name="C:\Users\never\IdeaProjects\_228\src\main\webapp\WEB-INF\jsp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="electricity" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="electricity" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="228" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sql.user.Runner" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=dev" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="DEBUG_MODE" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="__228_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62152" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="__228" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62089" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62150" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70e345db-0bba-4adb-8969-01dd7c0584c7" name="Default Changelist" comment="" />
+      <created>1551091592398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551091592398</updated>
+      <workItem from="1551091597214" duration="8829000" />
+      <workItem from="1551123438840" duration="10767000" />
+      <workItem from="1551343325277" duration="21124000" />
+      <workItem from="1551633020159" duration="12680000" />
+      <workItem from="1552245013800" duration="598000" />
+      <workItem from="1552851691491" duration="445000" />
+      <workItem from="1555596776618" duration="636000" />
+      <workItem from="1555875061481" duration="123000" />
+      <workItem from="1560627121789" duration="10528000" />
+      <workItem from="1560698501740" duration="32775000" />
+      <workItem from="1560870958626" duration="3638000" />
+      <workItem from="1563130345798" duration="22142000" />
+      <workItem from="1563388452743" duration="1257000" />
+      <workItem from="1563457318017" duration="950000" />
+      <workItem from="1563460279277" duration="10854000" />
+      <workItem from="1563522738477" duration="6178000" />
+      <workItem from="1563666374397" duration="3178000" />
+      <workItem from="1563913537540" duration="2355000" />
+      <workItem from="1563921350547" duration="7903000" />
+      <workItem from="1564091810800" duration="606000" />
+      <workItem from="1564594472310" duration="289000" />
+      <workItem from="1565127502374" duration="10874000" />
+      <workItem from="1565167389774" duration="10059000" />
+      <workItem from="1565208156164" duration="1082000" />
+      <workItem from="1565215672167" duration="2802000" />
+      <workItem from="1565299025430" duration="2421000" />
+      <workItem from="1565465703000" duration="273000" />
+      <workItem from="1565477679953" duration="2361000" />
+      <workItem from="1565481171506" duration="6193000" />
+      <workItem from="1565525142836" duration="156000" />
+      <workItem from="1565525408901" duration="5225000" />
+      <workItem from="1565531535642" duration="1039000" />
+      <workItem from="1565624935265" duration="163000" />
+      <workItem from="1565642260842" duration="3045000" />
+      <workItem from="1565648204832" duration="2441000" />
+      <workItem from="1565715681129" duration="768000" />
+      <workItem from="1565819684173" duration="7563000" />
+      <workItem from="1566047769027" duration="54000" />
+      <workItem from="1566220019523" duration="15062000" />
+      <workItem from="1566564876303" duration="1634000" />
+      <workItem from="1566682609648" duration="107000" />
+      <workItem from="1566688541742" duration="773000" />
+      <workItem from="1567162643342" duration="82000" />
+      <workItem from="1567245123829" duration="3926000" />
+      <workItem from="1567274580617" duration="153000" />
+      <workItem from="1567275333126" duration="284000" />
+      <workItem from="1567277781983" duration="879000" />
+      <workItem from="1567540400600" duration="473000" />
+      <workItem from="1567786824980" duration="268000" />
+      <workItem from="1567843448127" duration="170000" />
+      <workItem from="1567966811934" duration="282000" />
+      <workItem from="1568372361742" duration="248000" />
+      <workItem from="1568372856288" duration="1429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="240144000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4920635" visible="true" weight="0.17975709" />
+      <window_info id="Structure" order="1" sideWeight="0.50793654" side_tool="true" weight="0.20809716" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50793654" side_tool="true" weight="0.20809716" />
+      <window_info id="Web" order="7" sideWeight="0.50793654" side_tool="true" weight="0.20809716" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.54706925" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.330373" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3285968" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3285968" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24939272" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.1319838" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.2291498" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32955465" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar!/org/apache/log4j/LogManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="80" column="25" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3264">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4488" />
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.3.RELEASE/spring-boot-dependencies-2.1.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8908">
+          <caret line="524" column="12" selection-start-line="524" selection-start-column="12" selection-end-line="524" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/formpagemain.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9430" selection-start-line="12" selection-start-column="9430" selection-end-line="12" selection-end-column="9430" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/formPage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="216" column="56" selection-start-line="216" selection-start-column="56" selection-end-line="216" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/css/bundle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3587">
+          <caret line="5" column="150275" selection-start-line="5" selection-start-column="150275" selection-end-line="5" selection-end-column="150275" />
+          <folding>
+            <element signature="e#78936#79170#2" expanded="true" />
+            <element signature="e#79974#80127#1" expanded="true" />
+            <element signature="e#80167#80401#1" expanded="true" />
+            <element signature="e#83407#83683#2" expanded="true" />
+            <element signature="e#84515#84668#1" expanded="true" />
+            <element signature="e#84708#84984#1" expanded="true" />
+            <element signature="e#113452#113639#2" expanded="true" />
+            <element signature="e#113868#114004#2" expanded="true" />
+            <element signature="e#114407#114540#2" expanded="true" />
+            <element signature="e#115682#115835#1" expanded="true" />
+            <element signature="e#127542#127772#2" expanded="true" />
+            <element signature="e#128639#128875#2" expanded="true" />
+            <element signature="e#156618#156795#2" expanded="true" />
+            <element signature="e#156841#157018#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/2.1.4.RELEASE/spring-session-data-redis-2.1.4.RELEASE.jar!/org/springframework/session/data/redis/config/annotation/web/http/EnableRedisHttpSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logging.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.11/mysql-connector-java-8.0.11.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1eecd046-1383-4c38-bafa-bbfb1d32c72f/schema/orderbase/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/connection/lettuce/LettuceConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3842">
+          <caret line="288" column="22" selection-start-line="288" selection-start-column="22" selection-end-line="288" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2159">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/EmailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/automation.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/bulb.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/ekstra.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/electnet.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/lighting.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/logo_dolya.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/logo_kolyadichi.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/logo_train.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/mail-outline.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/master.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/open-mail.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/phone.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_200.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_479.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/plastic.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/sklad1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/sklad2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/sklad3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/sklad4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/skype.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/ventil.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/ventilation.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/viber.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/pic/wiresphoto.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/public/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/EmailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/Initializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/user/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>_228:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>bootstrap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>_228</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="tomcat7:undeploy" />
+    <option value="tomcat7:deploy" />
+    <option value="tomcat7:redeploy" />
+    <option value="spring-boot:run" />
+    <option value="``" />
+    <option value="./mvnw spring-boot:run" />
+    <option value="\" />
+    <option value="java -jar target/jsp-boot-tst-1.0-SNAPSHOT.jar" />
+    <option value="clean package" />
+    <option value="project$ mvn clean package" />
+    <option value="java -jar target/spring-boot-web-jsp-1.0.war" />
+    <option value="dependency:tree" />
+  </component>
+</project>

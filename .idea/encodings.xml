@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/1.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/2.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/automation.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/bulb.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/ekstra.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/electnet.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/lighting.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/logo_dolya.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/logo_kolyadichi.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/logo_train.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/mail-outline.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/master.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/open-mail.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/phone.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_1110.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_1135.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_200.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_479.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_684.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_841.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/photocablefinal1_czf7a5_c_scale,w_998.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/plastic.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/sklad1.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/sklad2.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/sklad3.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/sklad4.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/skype.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/ventil.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/ventilation.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/viber.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/pic/wiresphoto.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/css/bundle.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/formPage.jsp" charset="windows-1251" />
+  </component>
+</project>
